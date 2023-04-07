@@ -7,7 +7,7 @@ fun main(){
     var connection : Connection? = null
     val surnames = ArrayList<String>()
     try{
-        val url = "jdbc:mysql://localhost:3306/newdb"
+        val url = "jdbc:mysql://localhost:3306/miadb"
         val user = "developer"
         val password = "developerpassword"
 
